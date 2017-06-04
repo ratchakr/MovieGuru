@@ -1,0 +1,14 @@
+GetNewMovieFactIntent a fact
+GetNewMovieFactIntent a movie fact
+GetNewMovieFactIntent tell me a fact
+GetNewMovieFactIntent tell me a movie fact
+GetNewMovieFactIntent give me a fact
+GetNewMovieFactIntent give me a movie fact
+GetNewMovieFactIntent tell me trivia
+GetNewMovieFactIntent tell me a movie trivia
+GetNewMovieFactIntent give me trivia
+GetNewMovieFactIntent give me a movie trivia
+GetNewMovieFactIntent give me some information
+GetNewMovieFactIntent give me some movie information
+GetNewMovieFactIntent tell me something
+GetNewMovieFactIntent give me something
